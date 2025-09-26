@@ -9,7 +9,7 @@ npm install
 ```
 
 ### run this command to run the docker image
-if you dont image locally then itll pull the image from docker hub
+if you dont have image locally then itll pull the image from docker hub
 ```bash
 docker-compose up -d
 ```
